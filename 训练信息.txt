@@ -1,0 +1,5 @@
+VOC 2007,2012 10classes
+frequent 20
+epoch 30
+VOC 2007 9963
+VOC 2012 4331 
